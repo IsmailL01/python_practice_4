@@ -1,0 +1,11 @@
+{
+    "ismo": {
+        "password": "ismo",
+        "tasks": [
+            {
+                "task": "ubrat musor",
+                "done": true
+            }
+        ]
+    }
+}
