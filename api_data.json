@@ -1,0 +1,103 @@
+[
+	{
+		"type": "cat_fact",
+		"data": {
+			"fact": "The little tufts of hair in a cat\u2019s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called \u201cear furnishings.\u201d",
+			"length": 143
+		},
+		"timestamp": "2025-04-24 19:19:36.955488"
+	}
+]
+[
+  {
+    "type": "cat_fact",
+    "data": {
+      "fact": "The little tufts of hair in a cat\u2019s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called \u201cear furnishings.\u201d",
+      "length": 143
+    },
+    "timestamp": "2025-04-24 19:19:36.955488"
+  },
+  {
+    "type": "cat_fact",
+    "data": {
+      "fact": "Some cats have survived falls of over 65 feet (20 meters), due largely to their \u201crighting reflex.\u201d The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.",
+      "length": 249
+    },
+    "timestamp": "2025-04-25 09:15:40.011322"
+  }
+][
+  {
+    "async_data": [
+      {
+        "type": "user",
+        "data": {
+          "results": [
+            {
+              "gender": "female",
+              "name": {
+                "title": "Ms",
+                "first": "Vitalina",
+                "last": "Lavrin"
+              },
+              "location": {
+                "street": {
+                  "number": 1336,
+                  "name": "Mikoli Ushakova"
+                },
+                "city": "Krasiliv",
+                "state": "Vinnicka",
+                "country": "Ukraine",
+                "postcode": 15856,
+                "coordinates": {
+                  "latitude": "75.8336",
+                  "longitude": "17.9170"
+                },
+                "timezone": {
+                  "offset": "+2:00",
+                  "description": "Kaliningrad, South Africa"
+                }
+              },
+              "email": "vitalina.lavrin@example.com",
+              "login": {
+                "uuid": "27a82e71-18db-4e4e-92e9-8fea14cf9d51",
+                "username": "organiclion995",
+                "password": "uuuu",
+                "salt": "IYR4p5ui",
+                "md5": "596e4abd3c467d3dd7dbb06ba1fa5dcc",
+                "sha1": "3d64ac43e140b20ff64bec40fef719544eaa47e8",
+                "sha256": "bbd164b0ccae6b5ec6857f82cf50eff91958fbf20ebf50a70a060d2da7f6cb5f"
+              },
+              "dob": {
+                "date": "1995-11-28T11:37:05.436Z",
+                "age": 29
+              },
+              "registered": {
+                "date": "2015-10-05T18:51:03.836Z",
+                "age": 9
+              },
+              "phone": "(068) U95-8312",
+              "cell": "(068) G64-5674",
+              "id": {
+                "name": "",
+                "value": null
+              },
+              "picture": {
+                "large": "https://randomuser.me/api/portraits/women/9.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+              },
+              "nat": "UA"
+            }
+          ],
+          "info": {
+            "seed": "be9c9a1e0922aedf",
+            "results": 1,
+            "page": 1,
+            "version": "1.4"
+          }
+        },
+        "timestamp": "2025-04-25 09:15:53.815577"
+      }
+    ]
+  }
+]

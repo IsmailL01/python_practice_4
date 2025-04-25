@@ -1,0 +1,1 @@
+python3 main.py --sync --async-cats quote user --save
